@@ -1,0 +1,3 @@
+Twilio Rails
+
+This is a test application using the twilio_ruby gem to test Twilio's SMS and Voice call services.
